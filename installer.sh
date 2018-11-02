@@ -8,3 +8,5 @@ sudo apt install oracle-java8-set-default
 
 # Yakuake
 sudo apt-get install yakuake
+# parcellite
+sudo apt install parcellite
